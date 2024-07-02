@@ -18,12 +18,12 @@ This project is an app to show information about people who loan books.
 ***
 
 ### Features
-Feature 1: Fetching loan books from API.__
+Feature 1: Fetching loan books from API.<br />
 Feature 2: Display a list of detailed information about loan books.
 ***
 
 ### Additional Features
-Feature 1: Sorting a list of loan books data based on loan amount, term, or purpose.__
+Feature 1: Sorting a list of loan books data based on loan amount, term, or purpose.<br />
 Feature 2: Searching for specific loan books based on borrower name.
 ***
 
