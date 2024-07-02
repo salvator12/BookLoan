@@ -10,13 +10,10 @@ This project is an app to show information about people who loan books.
 1. **Installation**:
    - Clone the repository:
      ```https://github.com/salvator12/BookLoan.git```
-   - Navigate into project directory:
-     ```cd project-directory```
-<br />
+   - Navigate into project directory:```cd project-directory```
 2. **Open the Project in Xcode**
    - Double-click on the BookLoanApp.xcodeproj file to open the project in Xcode.
-<br />
-4. **Build and Run**
+3. **Build and Run**
    - Select your target device or simulator and press the Run button (or Cmd+R) in Xcode.
 <br />
 <br />
