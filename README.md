@@ -42,6 +42,7 @@ Feature 2: Searching for specific loan books based on borrower name.
 - Choice of Design Pattern: Using MVVM because the SwiftUI concept was suitable with MVVM where this UI framework supports data binding and observes mechanisms ensuring UI Update automatically.
 <br />
 <br />
+
 ### Code Structures
 ***
 - '**Applications/**': Directory containing a file of app entry point.
