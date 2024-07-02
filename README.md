@@ -1,43 +1,51 @@
 ## Book Loan
 ***
 ### Overview
-This project is an app to show information about people who loan books.
 ***
+This project is an app to show information about people who loan books.
+<br />
+<br />
 ### How To Run
+***
 1. **Installation**:
    - Clone the repository:
      ```https://github.com/salvator12/BookLoan.git```
    - Navigate into project directory:
      ```cd project-directory```
-     
+<br />
 2. **Open the Project in Xcode**
    - Double-click on the BookLoanApp.xcodeproj file to open the project in Xcode.
-
+<br />
 4. **Build and Run**
    - Select your target device or simulator and press the Run button (or Cmd+R) in Xcode.
-***
-
+<br />
+<br />
 ### Features
+***
 Feature 1: Fetching loan books from API.<br />
 Feature 2: Display a list of detailed information about loan books.
-***
-
+<br />
+<br />
 ### Additional Features
+***
 Feature 1: Sorting a list of loan books data based on loan amount, term, or purpose.<br />
 Feature 2: Searching for specific loan books based on borrower name.
-***
-
+<br />
+<br />
 ### Approach
+***
 - Utilizes Swift's '**API Request**' library to fetch data from the API endpoint.
 - Parse JSON response and extract relevant data.
-***
-
+<br />
+<br />
 ### Decisions
+***
 - Choice of Framework: Using SwiftUI framework to create this app because it is easier to read and write the code and also supports Live Preview.
 - Choice of Design Pattern: Using MVVM because the SwiftUI concept was suitable with MVVM where this UI framework supports data binding and observes mechanisms ensuring UI Update automatically.
-***
-
+<br />
+<br />
 ### Code Structures
+***
 - '**Applications/**': Directory containing a file of app entry point.
 - **Applications/BookLoanAppApp.swift**: The entry point of the Book Loan application.
 - '**Features/**': Directory containing files of app features.
