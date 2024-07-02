@@ -35,6 +35,7 @@ Feature 2: Searching for specific loan books based on borrower name.
 - Parse JSON response and extract relevant data.
 <br />
 <br />
+
 ### Decisions
 ***
 - Choice of Framework: Using SwiftUI framework to create this app because it is easier to read and write the code and also supports Live Preview.
