@@ -45,17 +45,17 @@ Feature 2: Searching for specific loan books based on borrower name.
 
 ### Code Structures
 ***
-- '**Applications/**': Directory containing a file of app entry point.
-- **Applications/BookLoanAppApp.swift**: The entry point of the Book Loan application.
-- '**Features/**': Directory containing files of app features.
-- '**Features/Loan/Model/BookLoanData.swift**': Defines the data structures of loan books in the application.
-- '**Features/Loan/View/BookLoanView.swift**': The main view of the application displays the list of loan books.
-- '**Features/Loan/View/BookLoanDetailView.swift**': The child view of BookLoanView to displays the detail information of chosen loan book.
-- '**Features/Loan/View/Modifiers/BookLoanCard.swift**': A view component to displays information about borrower name, loan of amount, interest rate, term, purpose, and risk rating.
-- '**Features/Loan/ViewModel/BookLoanViewModel.swift**': A view-model contains store variables, business logic and presentation logic to be processed so that it can be displayed to the BookLoanView and BookLoanDetailView.
-- '**Services/**': Directory containing files of code to connect the app with third party another stuff with internet.
-- '**Services/BookLoanAPIManager.swift**': A file to fetching data of loan books from API.
-- '**Utilities/**': Directory containing helpful functions that can use throughout the app.
-- '**Utilities/Entities/SortTag.swift**': file containing an enum structures to indicating current type of sort that user chose.
+- ```Applications/```: Directory containing a file of app entry point.
+- ```Applications/BookLoanAppApp.swift```: The entry point of the Book Loan application.
+- ```Features/```: Directory containing files of app features.
+- ```Features/Loan/Model/BookLoanData.swift'```: Defines the data structures of loan books in the application.
+- ```Features/Loan/View/BookLoanView.swift```: The main view of the application displays the list of loan books.
+- ```Features/Loan/View/BookLoanDetailView.swift```: The child view of BookLoanView to displays the detail information of chosen loan book.
+- ```Features/Loan/View/Modifiers/BookLoanCard.swift```: A view component to displays information about borrower name, loan of amount, interest rate, term, purpose, and risk rating.
+- ```Features/Loan/ViewModel/BookLoanViewModel.swift```: A view-model contains store variables, business logic and presentation logic to be processed so that it can be displayed to the BookLoanView and BookLoanDetailView.
+- ```Services/```: Directory containing files of code to connect the app with third party another stuff with internet.
+- ```Services/BookLoanAPIManager.swift```: A file to fetching data of loan books from API.
+- ```Utilities/```: Directory containing helpful functions that can use throughout the app.
+- ```Utilities/Entities/SortTag.swift```: file containing an enum structures to indicating current type of sort that user chose.
 
 
