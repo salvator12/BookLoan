@@ -15,9 +15,8 @@ This project is an app to show information about people who loan books.
    - Double-click on the BookLoanApp.xcodeproj file to open the project in Xcode.
 3. **Build and Run**
    - Select your target device or simulator and press the Run button (or Cmd+R) in Xcode.
-<br />
-<br />
-
+   <br />
+   <br />
 ### Features
 ***
 Feature 1: Fetching loan books from API.<br />
