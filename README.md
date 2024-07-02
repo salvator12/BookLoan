@@ -19,7 +19,7 @@ This project is an app to show information about people who loan books.
 
 ### Features
 Feature 1: Fetching loan books from API.
-Feature 1: Display a list of detailed information about loan books.
+Feature 2: Display a list of detailed information about loan books.
 ***
 
 ### Additional Features
